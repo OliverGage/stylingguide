@@ -1,4 +1,4 @@
-Style Guide
+Portfolio
 ---------
 
-##[Style Guide](https://OliverGage.github.io/stylingguide/index.html)
+##[My Portfolio](https://OliverGage.github.io/stylingguide/index.html)
